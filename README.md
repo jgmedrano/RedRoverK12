@@ -1,6 +1,6 @@
 # RedRoverK12 puzzle challenge
 
-To run you must haver Python install
+To run you must have Python install
 
 Simply:
 
